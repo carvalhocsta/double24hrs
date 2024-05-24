@@ -1,0 +1,142 @@
+[
+    {
+        "id": "blRLd5Va1O",
+        "created_at": "2024-05-13T02:26:30.671Z",
+        "color": 2,
+        "roll": 10,
+        "server_seed": "db077d936105fe71cd64cac5b60589e0b7f0c4cb378643e24dca1ae8e21e3423"
+    },
+    {
+        "id": "V1anb4pzke",
+        "created_at": "2024-05-13T02:26:00.649Z",
+        "color": 2,
+        "roll": 13,
+        "server_seed": "1238ea772fff8c83a1534ad456ef0815c5e808727408e44236e98d93b2dda979"
+    },
+    {
+        "id": "8kGbDm8b1Z",
+        "created_at": "2024-05-13T02:25:30.629Z",
+        "color": 2,
+        "roll": 10,
+        "server_seed": "5be5d4a4e662b8fdf7148bcedfc49d20ca19cbd89834e3c554c098b43ecce64c"
+    },
+    {
+        "id": "8r22L6Nqrb",
+        "created_at": "2024-05-13T02:25:00.610Z",
+        "color": 2,
+        "roll": 8,
+        "server_seed": "13eb7df7840e0742037dedb6b01f30d41bf85dceb269b82e435511c8a1e776bb"
+    },
+    {
+        "id": "erWE97gbkX",
+        "created_at": "2024-05-13T02:24:30.593Z",
+        "color": 2,
+        "roll": 12,
+        "server_seed": "34b76e45818c800423f640bef7fac84ef62325d8e53d216d53790ab37d494630"
+    },
+    {
+        "id": "V1qoAJVnlB",
+        "created_at": "2024-05-13T02:24:00.572Z",
+        "color": 0,
+        "roll": 0,
+        "server_seed": "6c1295e5e7fe5a6eda0d8e606f2036def33ba9a127ef686279f645b7d054ab0e"
+    },
+    {
+        "id": "Rl8XxgjJlK",
+        "created_at": "2024-05-13T02:23:30.553Z",
+        "color": 1,
+        "roll": 1,
+        "server_seed": "fd1f5973d56eed4c1b01a51b8738b31be384b4a6e57eb85cac677d5df3352892"
+    },
+    {
+        "id": "5k0LKQqDkY",
+        "created_at": "2024-05-13T02:23:00.534Z",
+        "color": 1,
+        "roll": 7,
+        "server_seed": "5198032463f2ac020ca5abcd29f044d28cdf15f7f389d51d94cc145e9fc6778e"
+    },
+    {
+        "id": "z1xQKVOdkp",
+        "created_at": "2024-05-13T02:22:30.514Z",
+        "color": 2,
+        "roll": 13,
+        "server_seed": "6166e48ee050569a13539f0e8966670b56729396097acdf5e256aea1e44ca231"
+    },
+    {
+        "id": "V1eKO563lo",
+        "created_at": "2024-05-13T02:22:00.494Z",
+        "color": 2,
+        "roll": 12,
+        "server_seed": "f7ac92ea2d547caab1f3271e054974ed8e2095b19a6e42c1ba8dc8742cdadb96"
+    },
+    {
+        "id": "qlPep6VOrz",
+        "created_at": "2024-05-13T02:21:30.475Z",
+        "color": 2,
+        "roll": 9,
+        "server_seed": "27e4d0b76b68d7d04e4e2de34b877331a71c1a52186747f7676e20190cbeda36"
+    },
+    {
+        "id": "dlEaDqeJlv",
+        "created_at": "2024-05-13T02:21:00.455Z",
+        "color": 1,
+        "roll": 6,
+        "server_seed": "a8ade5f49438d1ce7da108d8df8425d3a03c67639ac302087ec33527bdf7f21c"
+    },
+    {
+        "id": "mlN6yDdelv",
+        "created_at": "2024-05-13T02:20:30.435Z",
+        "color": 1,
+        "roll": 7,
+        "server_seed": "768fef190d5cc184b304e02fcfde90c909cb77ec0f86d0155317870193ecf8ad"
+    },
+    {
+        "id": "M19X0w6PrA",
+        "created_at": "2024-05-13T02:20:00.416Z",
+        "color": 0,
+        "roll": 0,
+        "server_seed": "f5c97c096b44c2bfd3b92661ff88ff6836009e6603fe771887bfc3e67eea9f12"
+    },
+    {
+        "id": "ylLz3ogL1G",
+        "created_at": "2024-05-13T02:19:30.397Z",
+        "color": 1,
+        "roll": 1,
+        "server_seed": "40999ddac72e0f990bb0b9e3cbde99f45956ad374b43b6eefe86960bc77dbe26"
+    },
+    {
+        "id": "G17zegJWrZ",
+        "created_at": "2024-05-13T02:19:00.375Z",
+        "color": 1,
+        "roll": 5,
+        "server_seed": "96d95d84eea425125795118c3137e523dabfd3cc0223cebd39a1ee06fb44880c"
+    },
+    {
+        "id": "9rKbjWO0l6",
+        "created_at": "2024-05-13T02:18:30.354Z",
+        "color": 1,
+        "roll": 7,
+        "server_seed": "9debe1c6bfba73d25d7b32dfee9b49a5fd2d45661e0975a3d9b3eb3797e98e59"
+    },
+    {
+        "id": "XlO5bO631O",
+        "created_at": "2024-05-13T02:18:00.336Z",
+        "color": 2,
+        "roll": 11,
+        "server_seed": "81deca79aa0e0058535091fd1801ebcaf43855227e62730376c2e0befeac828b"
+    },
+    {
+        "id": "WldVd8mW13",
+        "created_at": "2024-05-13T02:17:30.315Z",
+        "color": 1,
+        "roll": 1,
+        "server_seed": "533f1216028e53f903ee2bcfdacc573dd292672729296fbb13736cf4ee2307c1"
+    },
+    {
+        "id": "elYnEgzWrL",
+        "created_at": "2024-05-13T02:17:00.296Z",
+        "color": 2,
+        "roll": 9,
+        "server_seed": "b93c0e38fac0283501465da8b5a1fa33be12c8dcd2eb068e7bbb225fcb63c788"
+    }
+]
