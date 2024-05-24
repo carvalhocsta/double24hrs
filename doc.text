@@ -11,8 +11,8 @@ class WebScraper:
     
     def __init__(self):
         self.game = "Blaze Double"
-        self.token = '7172278260:AAFeAP1kIg564lq66SQrkh40YJV-r7N0VGI'
-        self.chat_id = '-1002096128848'
+        self.token = ''
+        self.chat_id = ''
         self.url_API = 'https://blaze-4.com/api/roulette_games/recent'
         self.link = "[Clique aqui!]()"
         
